@@ -17,6 +17,12 @@ h1 {
     text-decoration: underline;
 }
 
+.image-intro {
+    max-width: 50%;
+    border: 3px solid white;
+    border-radius: 5px;
+}
+
 .source-paragraph {
     text-align: left;
     font-size: smaller;
