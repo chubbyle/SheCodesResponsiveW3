@@ -17,6 +17,11 @@ h1 {
     text-decoration: underline;
 }
 
+.source-paragraph {
+    text-align: left;
+    font-size: smaller;
+    padding-top: 50px;
+}
 .navigation-links {
     text-align: center;
     padding: 50px auto;
